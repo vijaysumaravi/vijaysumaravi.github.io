@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/  
+
+  - title: "Research Experience"
+    url: /teaching/ 
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,6 +19,9 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
     url: /cv/
     
   # - title: "Guide"
