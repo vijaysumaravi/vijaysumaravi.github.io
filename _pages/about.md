@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hey! My name is Vijay and I am a PhD student at UCLA advised by Prof. Abeer Alwan. My research thesis is on speech processing for modeling major depressive disorders (MDD). Other than that, I'm also interested in speech synthesis and speech-brain interactions. 
+Hey! My name is Vijay and I am a PhD student at UCLA advised by [Prof. Abeer Alwan](https://www.ee.ucla.edu/abeer-alwan/){:target="_blank"}. 
 
-You can find my resume [here.](https://docs.google.com/viewer?url=https://vijaysumaravi.github.io/files/Vijay-Ravi-PhD-2020.pdf){:target="_blank"} 
+My research thesis is on speech processing for modeling major depressive disorders (MDD). Other than that, I'm also interested in speech synthesis and speech-brain interactions. 
+
+You can find my resume [here.](https://vijaysumaravi.github.io/files/Vijay-Ravi-PhD-2020.pdf){:target="_blank"} 
 
 
 Thanks for visiting my website!  
