@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, there!"
+title: "Hello World!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Vijay and I am a PhD student at UCLA advised by Prof. Abeer Alwan. My research thesis is on speech processing for modeling major depressive disorders. Other than that, I'm also interested in speech synthesis and speech-brain interactions. 
+Hey! My name is Vijay and I am a PhD student at UCLA advised by Prof. Abeer Alwan. My research thesis is on speech processing for modeling major depressive disorders (MDD). Other than that, I'm also interested in speech synthesis and speech-brain interactions. 
 
-My resume: [Vijay-Ravi](https://docs.google.com/viewer?url=https://vijaysumaravi.github.io/files/Vijay-Ravi-PhD-2020.pdf){:target="_blank"} 
+You can find my resume [here.](https://docs.google.com/viewer?url=https://vijaysumaravi.github.io/files/Vijay-Ravi-PhD-2020.pdf){:target="_blank"} 
 
 
-Thanks for visiting my personal website.  
+Thanks for visiting my website!  
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
