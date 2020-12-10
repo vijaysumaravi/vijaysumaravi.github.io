@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Resume PDF](https://docs.google.com/viewer?url=${/files/Vijay-Ravi-PhD-2020.pdf}).
 
