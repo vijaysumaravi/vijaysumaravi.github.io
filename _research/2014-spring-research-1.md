@@ -2,7 +2,7 @@
 title: "Research experience 1"
 collection: research
 type: "Undergraduate course"
-permalink: /research/2014-spring-teaching-1
+permalink: /research/2014-spring-research-1
 venue: "Department of Electrical Engineering, IIT-Chennai, India"
 date: 2014-01-01
 location: "Chennai, India"
