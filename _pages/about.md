@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hey! My name is Vijay and I am a PhD student at UCLA advised by [Prof. Abeer Alwan](https://www.ee.ucla.edu/abeer-alwan/){:target="_blank"}. 
+Hey! My name is Vijay and I am a PhD student in the Department of Electreical and Computer Engineering at UCLA. I work in the Speech Processing and Auditory Perception Laboratory ([SPAPL](http://www.seas.ucla.edu/spapl/){:target="_blank"}) under the supervision of [Prof. Abeer Alwan](https://www.ee.ucla.edu/abeer-alwan/){:target="_blank"}. 
 
 My research thesis is on speech processing for modeling major depressive disorders (MDD). Other than that, I'm also interested in speech synthesis and speech-brain interactions. 
 
