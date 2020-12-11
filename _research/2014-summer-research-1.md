@@ -9,6 +9,8 @@ location: "Chennai, India"
 ---
 
 Advisor: Prof. Mohanasankar Sivaprakasam
+
 Research: Biomedical signal processing, healthcare technology
+
 Publications: [ARTSENS](https://vijaysumaravi.github.io/publication/2014-12-11-ARTSENS){:target="_blank"}
 
