@@ -3,7 +3,7 @@ title: "Undergraduate Research"
 collection: research
 type: "Research Intern"
 permalink: /research/2014-summer-research-1
-venue: "Department of Electrical Engineering, IIT-Chennai
+venue: "Department of Electrical Engineering, IIT-Chennai"
 date: 2014-06-01
 location: "Chennai, India"
 ---
